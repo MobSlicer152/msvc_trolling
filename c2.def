@@ -1,0 +1,4 @@
+LIBRARY c2
+EXPORTS
+	_AbortCompilerPass@4 = c2_orig._AbortCompilerPass@4
+
